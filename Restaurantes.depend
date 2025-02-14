@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1719442891 source:c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"prototipos.h"
+	"funcionesGlobales.h"
+	"clsFecha.h"
+	"clsEmpleados.h"
+	"clsCliente.h"
+	"clsCarta.h"
+	"clsPedido.h"
+	"ClsVenta.h"
+	"clsArchivoEmpleados.h"
+	"clsArchivoClientes.h"
+	"clsArchivoCarta.h"
+	"clsArchivoPedidos.h"
+	"clsArchivoVenta.h"
+	"funcionesEmpleados.h"
+	"funcionesClientes.h"
+	"funcionesCarta.h"
+	"funcionesPedidos.h"
+	"funcionesVenta.h"
+	"funcionesConfiguracion.h"
+	"menuEmpleados.h"
+	"menuCliente.h"
+	"menuCarta.h"
+	"menuPedidos.h"
+	"menuVentas.h"
+	"menuConfiguracion.h"
+	"reportes.h"
+
+1718067414 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719434349 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\prototipos.h
+
+1719353298 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\funcionesglobales.h
+
+1719282059 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\clsfecha.h
+
+1719282425 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\clsempleados.h
+
+1719444345 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\clscliente.h
+
+1719357275 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\clscarta.h
+
+1719428054 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\clspedido.h
+	<cstring>
+
+1719447456 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\clsventa.h
+
+1719435544 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\clsarchivoempleados.h
+
+1719435778 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\clsarchivoclientes.h
+
+1719435685 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\clsarchivocarta.h
+
+1719435778 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\clsarchivopedidos.h
+
+1719435778 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\clsarchivoventa.h
+
+1719435123 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\funcionesempleados.h
+
+1719363667 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\funcionesclientes.h
+
+1719435435 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\funcionescarta.h
+
+1719427497 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\funcionespedidos.h
+
+1719433153 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\funcionesventa.h
+
+1719434040 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\funcionesconfiguracion.h
+
+1719443021 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\menuempleados.h
+
+1719443006 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\menucliente.h
+
+1719259673 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\menucarta.h
+
+1719443028 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\menupedidos.h
+
+1719346256 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\menuventas.h
+
+1719434076 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\menuconfiguracion.h
+
+1719447240 c:\users\rodri\onedrive\escritorio\proyectogestion\proyectogestion\panzallena_corazoncontento\reportes.h
+
